@@ -1,2 +1,3 @@
 # SE
 Zum Software Engineering Kurs
+https://cloud.githubusercontent.com/assets/15002839/10948045/d1bd0f80-832b-11e5-9179-51508644325f.png
